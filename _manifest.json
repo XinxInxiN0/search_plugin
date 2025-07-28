@@ -1,0 +1,16 @@
+{
+  "manifest_version": 1,
+  "name": "search_plugin",
+  "version": "1.0.0",
+  "description": "使用Brave Search API进行搜索并使用硅基流动API总结结果的插件",
+  "author": {
+    "name": "U+4E50",
+    "url": "https://github.com/XinxInxiN0"
+  },
+  "keywords": ["搜索"],
+  "license": "GPLv3",
+  "host_application": {
+    "min_version": "0.9.0",
+    "max_version": "0.9.0"
+  }
+}
